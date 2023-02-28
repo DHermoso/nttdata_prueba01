@@ -5,4 +5,9 @@ repo_url: https://github.com/DHermoso/nttdata_prueba01/
 edit_uri: blob/master/docs/
 
 nav:
-  - Home: readme1.md
+  - Home: index.md
+  - readme1: readme1.md
+  - kafka_monitorizacion: kafka_monitorizacion.md
+  - Kafka_eHodei_encriptacion: Kafka_eHodei_encriptacion.md
+  - Kafka_eHodei_acceso: Kafka_eHodei_acceso.md
+  - kafka_conector_mongodb: kafka_conector_mongodb.md

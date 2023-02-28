@@ -12,9 +12,6 @@ nav:
   - Kafka_eHodei_acceso: Kafka_eHodei_acceso.md
   - kafka_conector_mongodb: kafka_conector_mongodb.md
 
-markdown_extensions:
-  - footnotes
-
 # Habilitamos la generacion de la documentacion como PDF
 plugins:
   - search

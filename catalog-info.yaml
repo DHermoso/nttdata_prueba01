@@ -7,7 +7,7 @@ metadata:
     - java
     - data
   annotations:
-    backstage.io/techdocs-ref: url: https://github.com/DHermoso/nttdata_prueba01/blob/master/
+    url: https://github.com/DHermoso/nttdata_prueba01/blob/master/
 spec:
   type: service
   owner: user:guest

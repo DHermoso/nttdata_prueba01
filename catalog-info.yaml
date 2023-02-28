@@ -7,7 +7,7 @@ metadata:
     - java
     - data
   annotations:
-    backstage.io/techdocs-ref: README.md
+    backstage.io/techdocs-ref: https://github.com/DHermoso/nttdata_prueba01/blob/master/README.md
 spec:
   type: service
   owner: user:guest

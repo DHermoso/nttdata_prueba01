@@ -7,7 +7,9 @@ metadata:
     - java
     - data
   annotations:
+    github.com/project-slug: DHermoso/nttdata_prueba01
     backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://github.com
 spec:
   type: service
   owner: user:guest

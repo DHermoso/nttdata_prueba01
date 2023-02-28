@@ -6,6 +6,8 @@ metadata:
   tags:
     - java
     - data
+    annotations:
+    backstage.io/techdocs-ref: README.md
 spec:
   type: service
   owner: user:guest

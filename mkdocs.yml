@@ -28,8 +28,3 @@ plugins:
   - with-pdf:
       copyright: Copyright &copy; 2021 Eusko Jaurlaritzaren Informatika Elkartea (EJIE)
       cover_subtitle: Documentaci&oacute;n del producto
-
-theme:
-  name: material
-  features:
-       - content.tabs.link

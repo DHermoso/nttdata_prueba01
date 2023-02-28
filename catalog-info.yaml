@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "nttdata_prueba01"
+  description: componente de prueba NTTData 01
+  tags:
+    - java
+    - data
 spec:
   type: service
   owner: user:guest

@@ -1,0 +1,9 @@
+ 215 lines (213 sloc)  11.8 KB
+
+site_name: 'nttdata_prueba01'
+site_description: 'nttdata_prueba01 nttdata_prueba01 nttdata_prueba01'
+repo_url: https://github.com/DHermoso/nttdata_prueba01
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
